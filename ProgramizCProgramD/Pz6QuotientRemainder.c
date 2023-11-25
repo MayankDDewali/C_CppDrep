@@ -1,7 +1,8 @@
 /* Pz6- C Program to Compute Quotient and Remainder*/
 #include <stdio.h>
 
-int main() {
+int main()
+{
     float dividend, divisor, quotient, remainder;
 
     // Get user input
@@ -12,7 +13,8 @@ int main() {
     scanf("%f", &divisor);
 
     // Check if the divisor is not zero
-    if (divisor != 0) {
+    if (divisor != 0)
+    {
         // Computes quotient
         quotient = dividend / divisor;
 
@@ -22,7 +24,9 @@ int main() {
         // Display results
         printf("Quotient = %f\n", quotient);
         printf("Remainder = %f\n", remainder);
-    } else {
+    }
+    else
+    {
         // Handle division by zero
         printf("Error: Division by zero is undefined.\n");
     }

@@ -1,6 +1,7 @@
 /* Pz1- C "Hello, World!" Program*/
-#include<stdio.h>
-int main(){
+#include <stdio.h>
+int main()
+{
     printf("Hello World");
     return 0;
 }
