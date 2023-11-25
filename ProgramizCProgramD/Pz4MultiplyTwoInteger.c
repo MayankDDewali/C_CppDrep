@@ -1,4 +1,4 @@
-/*C Program to Multiply Two Floating-Point Numbers*/
+/* Pz4- C Program to Multiply Two Floating-Point Numbers*/
 #include<stdio.h>
 int main(){
     float n1,n2;

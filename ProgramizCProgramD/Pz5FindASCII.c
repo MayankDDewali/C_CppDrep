@@ -1,4 +1,4 @@
-/*C Program to Find ASCII Value of a Character*/
+/* Pz5- C Program to Find ASCII Value of a Character*/
 #include<stdio.h>
 int main(){
     char c;

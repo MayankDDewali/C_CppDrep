@@ -1,4 +1,4 @@
-/*C Program to Find the Largest Number Among Three Numbers*/
+/* Pz12- C Program to Find the Largest Number Among Three Numbers*/
 #include<stdio.h>
 int main(){
     float a, b, c;

@@ -1,4 +1,4 @@
-/*C Program to Find the Size of int, float, double and char*/
+/* Pz7- C Program to Find the Size of int, float, double and char*/
 #include<stdio.h>
 int main() {
     int intType;

@@ -1,4 +1,4 @@
-/*C Program to Demonstrate the Working of Keyword long*/
+/* Pz8- C Program to Demonstrate the Working of Keyword long*/
 #include <stdio.h>
 int main() {
     int a;

@@ -1,4 +1,4 @@
-/*C Program to Check Whether a Number is Even or Odd*/
+/* Pz10- C Program to Check Whether a Number is Even or Odd*/
 #include<stdio.h>
 int main(){
     int num;

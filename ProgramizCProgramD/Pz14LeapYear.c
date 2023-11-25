@@ -1,4 +1,4 @@
-/*C Program to Check Leap Year*/
+/* Pz14- C Program to Check Leap Year*/
 #include<stdio.h>
 int main(){
     int year;

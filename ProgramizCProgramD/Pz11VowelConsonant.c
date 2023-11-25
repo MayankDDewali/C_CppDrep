@@ -1,4 +1,4 @@
-/*C Program to Check Whether a Character is a Vowel or Consonant*/
+/* Pz11- C Program to Check Whether a Character is a Vowel or Consonant*/
 #include<stdio.h>
 int main(){
     char c;

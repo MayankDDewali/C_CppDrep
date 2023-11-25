@@ -1,4 +1,4 @@
-/*C Program to Add Two Integers*/
+/* Pz3- C Program to Add Two Integers*/
 #include<stdio.h>
 int main(){
     float n1,n2;

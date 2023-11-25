@@ -1,4 +1,4 @@
-/*C Program to Print an Integer (Entered by the User)*/
+/* Pz2- C Program to Print an Integer (Entered by the User)*/
 #include<stdio.h>
 int main(){
     int n;
