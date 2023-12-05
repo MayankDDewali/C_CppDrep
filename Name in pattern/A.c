@@ -1,3 +1,10 @@
+/*
+ *
+ * *
+ *   *
+ *     *
+ *       *
+ */
 #include <stdio.h>
 int main()
 {
@@ -11,14 +18,16 @@ int main()
         }
         for (k = 1; k <= (i * 2 - 1); k++)
         {
-            if(k==1 || k==(2*i-1))
+            if (k == 1 || k == (2 * i - 1))
             {
                 printf("*");
             }
-            else{
+            else
+            {
                 printf(" ");
             }
         }
         printf("\n");
     }
+    return 0;
 }
