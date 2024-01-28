@@ -1,9 +1,9 @@
 /*
-                *****
+                ***
+                *  *
                 *   *
-                *   *
-                *   *
-                *****
+                *  *
+                ***
 */
 
 #include<stdio.h>
@@ -15,7 +15,7 @@ int main()
     {
         if(i==1 || i==n)
         {
-            for(j=1;j<=n;j++)
+            for(j=1;j<=n-2;j++)
             {
                 printf("*");
             }
@@ -23,12 +23,8 @@ int main()
         else{
             for(j=1;j<=n;j++)
             {
-                if(j==1 || j==n)
-                {
+                if(i==2 && j==n-1 || i==n-1 && j==n-1){
                     printf("*");
-                }
-                else{
-                    printf(" ");
                 }
             }
         }
